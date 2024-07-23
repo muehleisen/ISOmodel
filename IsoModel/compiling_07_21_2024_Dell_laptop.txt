@@ -1,0 +1,16 @@
+Installed MSVC 2022 community edition
+Installed cmake using chocolatey
+
+	choco install cmake
+
+Installed boost 1.84.0 for MSVC 2022 using chocolatey
+
+	choco install boost-msvc-14.3
+
+Installed to c:\local\boost_1_84_0
+
+Install latest google test (1.15.0 as of 7/21/24)
+
+	https://github.com/google/googletest/releases/tag/v1.15.0
+	https://github.com/google/googletest/archive/refs/tags/v1.15.0.zip
+Unzip to to c:\local\googletest-1.15.0
